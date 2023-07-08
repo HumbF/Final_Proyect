@@ -1,0 +1,2 @@
+2023-07-08T02:02:30.490Z-info: Server is listening on port 8086
+2023-07-08T02:02:30.524Z-error: The migration directory is corrupt, the following files are missing: 20230707200800_alter_wallet_test.ts
